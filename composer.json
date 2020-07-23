@@ -1,0 +1,13 @@
+{
+    "name": "zeeshan/myapp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Zeeshan",
+            "email": "zeeshan@taaruff.com"
+        }
+    ],
+    "require": {
+        "xeroapi/xero-php-oauth2": "^1.1"
+    }
+}
